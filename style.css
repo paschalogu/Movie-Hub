@@ -1,0 +1,762 @@
+.mediaViewInfo {
+	--web-view-name: MovieHub;
+	--web-view-id: Movies;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Movies;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Movies {
+	position: absolute;
+	width: 1390px;
+	height: 2269px;
+	background-color: rgba(9,8,8,1);
+	overflow: hidden;
+	--web-view-name: MovieHub;
+	--web-view-id: Movies;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1_g {
+	fill: url(#Rectangle_1_g);
+}
+.Rectangle_1_g {
+	position: absolute;
+	overflow: visible;
+	width: 1390px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_28_i {
+	fill: url(#Rectangle_28_i);
+}
+.Rectangle_28_i {
+	position: absolute;
+	overflow: visible;
+	width: 1390px;
+	height: 516px;
+	left: 0px;
+	top: 1497px;
+}
+#NoPath_-_Copy {
+	position: absolute;
+	width: 542px;
+	height: 813px;
+	left: 52px;
+	top: 671px;
+	overflow: visible;
+}
+#NoPath_-_Copy_5 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 1121px;
+	top: 1137px;
+	overflow: visible;
+}
+#NoPath_-_Copy_6_m {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 874px;
+	top: 1137px;
+	overflow: visible;
+}
+#NoPath_-_Copy_6_m {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 874px;
+	top: 1137px;
+	overflow: visible;
+}
+#NoPath_-_Copy_7 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 628px;
+	top: 1137px;
+	overflow: visible;
+}
+#NoPath_-_Copy_8 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 874px;
+	top: 734px;
+	overflow: visible;
+}
+#NoPath_-_Copy_4 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 1121px;
+	top: 734px;
+	overflow: visible;
+}
+#Rectangle_10_r {
+	fill: url(#Rectangle_10_r);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10_r {
+	position: absolute;
+	overflow: visible;
+	width: 444px;
+	height: 34px;
+	left: 767px;
+	top: 672px;
+}
+#Rectangle_19_t {
+	fill: url(#Rectangle_19_t);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19_t {
+	position: absolute;
+	overflow: visible;
+	width: 444px;
+	height: 34px;
+	left: 473px;
+	top: 1521px;
+}
+#image-from-rawpixel-id-2721431 {
+	position: absolute;
+	width: 549.694px;
+	height: 376.892px;
+	left: 807px;
+	top: 78px;
+	overflow: visible;
+}
+#Rectangle_15_w {
+	fill: url(#Rectangle_15_w);
+}
+.Rectangle_15_w {
+	position: absolute;
+	overflow: visible;
+	width: 1390px;
+	height: 597px;
+	left: 0px;
+	top: 1px;
+}
+#Rectangle_31_y {
+	fill: url(#Rectangle_31_y);
+}
+.Rectangle_31_y {
+	position: absolute;
+	overflow: visible;
+	width: 1390px;
+	height: 79px;
+	left: 0px;
+	top: 2202px;
+}
+#Home {
+	left: 329px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(252,246,246,1);
+}
+#Categories {
+	left: 422px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(252,246,246,1);
+}
+#Blog {
+	left: 553px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(252,246,246,1);
+}
+#Search {
+	left: 1047px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(252,246,246,1);
+	text-decoration: underline;
+}
+#Component_1__2 {
+	position: absolute;
+	width: 190px;
+	height: 29px;
+	left: 166px;
+	top: 416px;
+	overflow: visible;
+}
+#Rectangle_14_ {
+	fill: url(#Rectangle_14_);
+}
+.Rectangle_14_ {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 29px;
+	left: 0px;
+	top: 0px;
+}
+#Subscribe {
+	left: 51px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,246,246,1);
+}
+#Movies_and_Life {
+	left: 166px;
+	top: 223px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(252,246,246,1);
+}
+#Join_Telegram {
+	left: 379px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(249,239,239,1);
+	text-decoration: underline;
+}
+#Featured_Movies {
+	left: 904px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(249,239,239,1);
+}
+#Recently_Added {
+	left: 620px;
+	top: 1527px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(249,239,239,1);
+}
+#Rectangle_25 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 542px;
+	height: 52px;
+	left: 52px;
+	top: 1429px;
+}
+#Rectangle_22 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 628px;
+	top: 1460px;
+}
+#Rectangle_20 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 1121px;
+	top: 1057px;
+}
+#Rectangle_24 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 1121px;
+	top: 1460px;
+}
+#Rectangle_21 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 874px;
+	top: 1057px;
+}
+#Rectangle_23 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 874px;
+	top: 1460px;
+}
+#Icon_awesome-search {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 14.498px;
+	height: 14.5px;
+	left: 1023.359px;
+	top: 24.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 190px;
+	height: 29px;
+	left: 1149px;
+	top: 17px;
+	overflow: visible;
+}
+#Rectangle_14_bk {
+	fill: url(#Rectangle_14_bk);
+}
+.Rectangle_14_bk {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 29px;
+	left: 0px;
+	top: 0px;
+}
+#Subscribe_bl {
+	left: 51px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,246,246,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1153px;
+	height: 340px;
+	left: 120px;
+	top: 1596px;
+	overflow: visible;
+}
+#Component_3__1 {
+	position: absolute;
+	width: 1153px;
+	height: 340px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath_-_Copy_14 {
+	position: absolute;
+	width: 216px;
+	height: 340px;
+	left: 937px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath_-_Copy_13 {
+	position: absolute;
+	width: 217px;
+	height: 340px;
+	left: 702px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath_-_Copy_12 {
+	position: absolute;
+	width: 217px;
+	height: 340px;
+	left: 468px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath_-_Copy_11 {
+	position: absolute;
+	width: 217px;
+	height: 340px;
+	left: 234px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath_-_Copy_10 {
+	position: absolute;
+	width: 216px;
+	height: 340px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Movie {
+	left: 57px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Magneto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,239,239,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 71px;
+	height: 45px;
+	left: 95px;
+	top: 15px;
+	overflow: visible;
+}
+#H {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Magneto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(249,239,239,1);
+}
+#ub {
+	left: 36px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Magneto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(249,239,239,1);
+}
+#Icon_metro-video-camera {
+	fill: rgba(255,255,255,1);
+}
+.Icon_metro-video-camera {
+	overflow: visible;
+	position: absolute;
+	width: 18.034px;
+	height: 12.836px;
+	left: 42.858px;
+	top: 7.202px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-expand-more {
+	fill: rgba(255,251,251,1);
+}
+.Icon_material-expand-more {
+	overflow: visible;
+	position: absolute;
+	width: 5.533px;
+	height: 3.416px;
+	left: 514.926px;
+	top: 31px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_4__1 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 628px;
+	top: 734px;
+	overflow: visible;
+}
+#NoPath_-_Copy_2 {
+	position: absolute;
+	width: 220px;
+	height: 345px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_16 {
+	filter: blur(9px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 21px;
+	left: 0px;
+	top: 324px;
+}
+#Black_Widow {
+	left: 64px;
+	top: 326px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Settlers {
+	left: 262px;
+	top: 1435px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Spirit_Untamed-The_Movie {
+	left: 645px;
+	top: 1462px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Hitmans_Wifes_Bodyguard {
+	left: 1134px;
+	top: 1059px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#A_Quiet_Place {
+	left: 1183px;
+	top: 1462px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Wrath_of_Man {
+	left: 937px;
+	top: 1059px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Gaia {
+	left: 967px;
+	top: 1462px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#image-from-rawpixel-id-2721431_b {
+	opacity: 0.41;
+	position: absolute;
+	width: 404.936px;
+	height: 277.64px;
+	left: 865.532px;
+	top: 277.339px;
+	overflow: visible;
+}
+#image-from-rawpixel-id-2721431_ca {
+	position: absolute;
+	width: 517.281px;
+	height: 360.424px;
+	left: 785.36px;
+	top: 108px;
+	overflow: visible;
+}
+#Icon_awesome-long-arrow-alt-ri {
+	fill: rgba(251,251,251,1);
+}
+.Icon_awesome-long-arrow-alt-ri {
+	overflow: visible;
+	position: absolute;
+	width: 83.621px;
+	height: 15.484px;
+	left: 1256.563px;
+	top: 1955.475px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#For_your_best_movies_stream_se {
+	left: 166px;
+	top: 320px;
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(242,150,150,1);
+}
+#Icon_material-last-page {
+	fill: rgba(251,246,246,1);
+}
+.Icon_material-last-page {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 18.615px;
+	height: 18px;
+	left: 1318.462px;
+	top: 1968.894px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#See_more {
+	left: 1257px;
+	top: 1943px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
