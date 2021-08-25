@@ -149,10 +149,11 @@
   top: 78px;
   overflow: visible;
 }
-#Rectangle_15_w {
-  fill: url(#Rectangle_15_w);
+#Home_board {
+  fill: url(#Home_board);
 }
-.Rectangle_15_w {
+.Home_board {
+  display: flex;
   position: absolute;
   overflow: visible;
   width: 1390px;
