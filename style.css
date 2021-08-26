@@ -21,7 +21,7 @@
   align-items: center;
   position: absolute;
   width: 100%;
-  height: 2269px;
+  height: auto;
   background-color: rgba(9, 8, 8, 1);
   overflow: hidden;
   --web-view-name: MovieHub;
